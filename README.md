@@ -214,3 +214,5 @@ You can specify your template file using the `-t` or `--template` option.
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests on GitHub.
+
+Disclamer this is a python port from the https://github.com/mufeedvh/code2prompt rep written in rust. created for fun 
