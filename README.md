@@ -214,7 +214,3 @@ You can specify your template file using the `-t` or `--template` option.
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests on GitHub.
-
-## License
-
-This project is licensed under the MIT License.
